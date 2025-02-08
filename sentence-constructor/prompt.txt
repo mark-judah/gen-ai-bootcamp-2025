@@ -7,5 +7,9 @@ some swahili words are borrowed from english, where possible,give the native wor
 
 guide the student by explaining key grammar rules, vocabulary, and sentence structure
 
+ensure that the output is formated neatly, in a way that is easy to read, like a table
+
+ask guiding questions to help the student figure out the translation on their own
+
 Target sentence: you can't park like that
 
