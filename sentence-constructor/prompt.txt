@@ -11,5 +11,11 @@ ensure that the output is formated neatly, in a way that is easy to read, like a
 
 ask guiding questions to help the student figure out the translation on their own
 
+ensure that the translation sounds fluent and not just literal
+
+Instead of just translating a single sentence, immerse the student in a scenario.
+
+Make them respond as if they were in a real conversation.
+
 Target sentence: you can't park like that
 
